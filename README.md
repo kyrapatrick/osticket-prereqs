@@ -25,7 +25,7 @@ Outlines the prerequisites and installation of the open-source help desk ticketi
 - Installation of Internet Information Services (IIS) in Windows.
 - Open IIS as an administrator and regiser PHP frm within IIS.
 - Install osTicket with additional extensions enabled.
-- Reload IIS with osTicket created as MySQL Database.
+- Reload IIS with osTicket created as the MySQL Database.
 
 <h2>Installation Steps</h2>
 
