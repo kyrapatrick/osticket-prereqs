@@ -33,7 +33,7 @@ Outline prerequisites and installation of the open-source help desk ticketing sy
 <img src="https://i.imgur.com/F2CnIN6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Installation of Internet Information Services will allow osTicket to run out of a website.
+Installation of Internet Information Services, allowing osTicket to run out of a website.
 </p>
 <br />
 
@@ -49,12 +49,12 @@ IIS installation continued with PHP manager, a generalized scriting language use
 <img src="https://i.imgur.com/Wsxjrw6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-A database named "osTicket" is created within HeidiSQL that will allow connection to SQL server & establish a database used by osTicket.
+A database named "osTicket" is created within HeidiSQL, allowing connection to SQL server & establish a database used by osTicket.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/rVhcB0Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Installation of osTicket is completed along with SQL Database completion.
+<p>Installation of osTicket completed along with completion of SQL Database.
 </p>
 <br />
