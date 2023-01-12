@@ -49,7 +49,7 @@ IIS installation continued with PHP manager, a generalized scriting language use
 <img src="https://i.imgur.com/Wsxjrw6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-A database named "osTicket" is created within HeidiSQL, allowing connection to SQL server & establish a database used by osTicket.
+Database "osTicket" is created within HeidiSQL, allowing connection to SQL server & establish a database used by osTicket.
 </p>
 <br />
 <p>
